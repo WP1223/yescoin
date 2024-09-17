@@ -4,6 +4,10 @@ Jalankan perintah berikut untuk menginstal modul yang diperlukan
 
 `npm install` 
 kalo ada eror `npm init -y` lalu ulangi lagi
+`npm install axios`
+`npm install colors`
+`npm install https-proxy-agent`
+
 
 buat 2 file data.txt dan proxy.txt
 
