@@ -1,8 +1,10 @@
 Node.JS REQUIRED!!
 
-```` ```git clone https://github.com/WP1223/yescoin.git
-cd yescoin ``` ````
+```bash
+git clone https://github.com/WP1223/yescoin.git
 
+cd yescoin 
+```
 Jalankan perintah berikut untuk menginstal modul yang diperlukan
 
 `npm install` 
