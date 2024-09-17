@@ -3,7 +3,8 @@ Node.JS REQUIRED!!
 Jalankan perintah berikut untuk menginstal modul yang diperlukan
 
 `npm install` 
-kalo ada eror `npm init -y` lalu ulangi lagi
+kalo ada eror `npm init -y` lalu ulangi lagi `npm install`,
+
 `npm install axios`
 `npm install colors`
 `npm install https-proxy-agent`
