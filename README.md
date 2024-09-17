@@ -6,7 +6,9 @@ cd yescoin
 ```
 Jalankan perintah berikut untuk menginstal modul yang diperlukan
 
-`npm install` 
+```bash
+npm install
+``` 
 kalo ada eror `npm init -y` lalu ulangi lagi `npm install`,
 
 ```bash
