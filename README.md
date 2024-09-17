@@ -2,7 +2,8 @@ Node.JS REQUIRED!!
 
 Jalankan perintah berikut untuk menginstal modul yang diperlukan
 
-npm install
+`npm install` 
+kalo ada eror `npm init -y` lalu ulangi lagi
 
 buat 2 file data.txt dan proxy.txt
 
