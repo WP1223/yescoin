@@ -33,7 +33,9 @@ node yesyes.js
 ```
 
 
-pake ini kalo bingung kenapa .txt nya dobel itu typo mager benerin
+pake ini kalo bingung kenapa .txt nya dobel. itu typo mager benerin
 ```bash
 mv proxy.txt.txt proxy.txt
+```
+```bash
 mv data.txt.txt data.txt
