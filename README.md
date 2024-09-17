@@ -1,5 +1,7 @@
 Node.JS REQUIRED!!
 
+```git clone ```
+
 Jalankan perintah berikut untuk menginstal modul yang diperlukan
 
 `npm install` 
